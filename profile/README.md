@@ -2,10 +2,9 @@
 
 
 Key Projects are: 
-- [**DeerLab**](https://github.com/JeschkeLab/DeerLab) Python package for data analysis for dipolar EPR spectroscopy
-
-   
+- [**DeerLab**](https://github.com/JeschkeLab/DeerLab) Python package for data analysis for dipolar EPR spectroscopy   
 - [**MMMx**](https://github.com/gjeschke/MMMx)  Integrative ensemble modelling of proteins and their complexes that uses distribution restraints 
+- [**DeerAnalyisis**](https://github.com/JeschkeLab/DeerAnalysis)  A modern-GUI for processing DEER data
 
 - [**autoDEER**](https://github.com/JeschkeLab/autoDEER)  A python package designed for the running of automated and optimised DEER/PELDOR experiments for pulsed EPR 
 
